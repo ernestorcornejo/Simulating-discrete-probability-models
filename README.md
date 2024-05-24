@@ -1,2 +1,2 @@
 # Simulating-discrete-probability-models
-Using RStudio
+This lab focuses on simulating discrete probability models using R. By simulating games and distributions, analyzing the results, and comparing empirical findings with theoretical values.
